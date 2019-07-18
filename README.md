@@ -14,11 +14,11 @@ A reviews app for local resturants.
 
 - For most people, it's already installed on your computer and you can check the version that you have by typing python -V or py -V into the terminal.
 
--If you don't have Python you can get the latest version here: https://www.python.org/downloads
+- If you don't have Python you can get the latest version here: https://www.python.org/downloads
 
 - Once Python is installed and you have have navigated to root project folder using the terminal, check the version of Python you have: `python -V`.
 
--If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 8000` (or some other port, if port 8000 is already in use.) For Python 3.x, you can use `python3 -m http.server 8000`.
+- If you have Python 2.x, spin up the server with `python -m SimpleHTTPServer 8000` (or some other port, if port 8000 is already in use.) For Python 3.x, you can use `python3 -m http.server 8000`.
 
 - I had to use `py` rather than `python3` when creating my server. So my command line looked like this `project-root/py -m http.server 8000`
 
